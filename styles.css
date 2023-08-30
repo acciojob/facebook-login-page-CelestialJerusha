@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.main-container{
+	display: flex;
+}
+.left{
+	border: 1px solid;
+	padding: 30px;
+}
+.right{
+	border: 1px solid;
+	padding: 50px;
+}
